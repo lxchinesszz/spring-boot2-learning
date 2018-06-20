@@ -1,6 +1,8 @@
 # SpringBoot2.0-learn
 SpringBoot2.0开发教程
 
+小编头条号: [东方既白](https://www.toutiao.com/i6545444061195534851/)
+
 >本篇教程是对SpringBoot2.0为技术起点,开始的。
 
 那么我们首先了解下SpringBoot2.0的新特性
