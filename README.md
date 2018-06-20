@@ -1,9 +1,11 @@
 # SpringBoot2.0-learn
 SpringBoot2.0开发教程
 
->本篇教程是对SpringBoot2.0为技术起点,开始的。主要学习SpringBoot2.0的WebFlux
+>本篇教程是对SpringBoot2.0为技术起点,开始的。
 
 那么我们首先了解下SpringBoot2.0的新特性
+
+![](http://p3.pstatp.com/large/pgc-image/1523978300020d10534ee70)
 
 
 ### SpringBoot2.0新特性
