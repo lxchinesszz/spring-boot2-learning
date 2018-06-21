@@ -2,6 +2,7 @@
 SpringBoot2.0开发教程
 
 小编头条号: [东方既白](https://www.toutiao.com/i6545444061195534851/)
+[Flux 会取代 Web MVC，或可不再基于 Servlet 容器了？](https://www.oschina.net/news/94804/flux-replace-web-mvc)
 
 >本篇教程是对SpringBoot2.0为技术起点,开始的。
 
@@ -22,7 +23,7 @@ SpringBoot2.0开发教程
 那么当读到这里我们我们再看，上面开篇截取Spring.io官网的图片。我们就能对SpringBoot1.0和2.0在心里有一个判断
 
 - SpringBoot1.0是仅支持Servlet Containers->Servlet API属于传统方式
-- SpringBoot2.0在支持1.0的特性上,同时添加了一个新特性就是WebFlux,可以使用Netty及Servlet3.1作为容器,基于
+- SpringBoot2.0在支持1.0的特性上,同时添加了一个新特性就是WebFlux,可以使用Netty及Servlet3.1作为容器(但是不依赖),基于
    Reactive Streams 流处理。
 
 #### 那么我们在分析Servlet3.0之前和3.0的区别？
@@ -65,7 +66,7 @@ Servlet3.0类似于Netty一样就一个boss线程和work线程，boss线程只�
 
 ## 目录
 
-- chapter_01 创建一个web项目
-- chapter_02 定义接口
-- chapter_03
-- chapter_04
+- web-flux-chapter_01 创建一个web项目,WebMVC和WebFlux创建路由方式对比
+- web-flux-chapter_02  
+- web-flux-chapter_03 web-flux组件API介绍
+- web-flux-chapter_04 创建一个WebSocket项目
