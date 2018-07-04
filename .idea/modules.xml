@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SpringBoot2-learn.iml" filepath="$PROJECT_DIR$/SpringBoot2-learn.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring-boot-webflux/spring-boot-webflux.iml" filepath="$PROJECT_DIR$/spring-boot-webflux/spring-boot-webflux.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-Boot2-learn.iml" filepath="$PROJECT_DIR$/Spring-Boot2-learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webflux-chapter_01/webflux-chapter_01.iml" filepath="$PROJECT_DIR$/webflux-chapter_01/webflux-chapter_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webflux-chapter_02/webflux-chapter_02.iml" filepath="$PROJECT_DIR$/webflux-chapter_02/webflux-chapter_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webflux-chapter_03/webflux-chapter_03.iml" filepath="$PROJECT_DIR$/webflux-chapter_03/webflux-chapter_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webflux-chapter_04/webflux-chapter_04.iml" filepath="$PROJECT_DIR$/webflux-chapter_04/webflux-chapter_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webflux-common-tools/webflux-common-tools.iml" filepath="$PROJECT_DIR$/webflux-common-tools/webflux-common-tools.iml" />
     </modules>
   </component>
 </project>

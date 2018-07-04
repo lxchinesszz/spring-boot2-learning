@@ -6,12 +6,25 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="common-tools" />
         <module name="spring-boot-webflux" />
+        <module name="webflux-chapter_01" />
+        <module name="webflux-chapter_02" />
+        <module name="webflux-chapter_03" />
+        <module name="webflux-chapter_04" />
+        <module name="webflux-common-tools" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="spring-boot-webflux" target="1.5" />
-      <module name="SpringBoot2-learn" target="1.5" />
+      <module name="common-tools" target="1.8" />
+      <module name="spring-boot-webflux" target="1.8" />
+      <module name="Spring-Boot2-learn" target="1.8" />
+      <module name="SpringBoot2-learn" target="1.8" />
+      <module name="webflux-chapter_01" target="1.8" />
+      <module name="webflux-chapter_02" target="1.8" />
+      <module name="webflux-chapter_03" target="1.8" />
+      <module name="webflux-chapter_04" target="1.8" />
+      <module name="webflux-common-tools" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
