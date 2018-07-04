@@ -2,9 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ec89d13-9234-4a15-b7fc-0af4c52a05a7" name="Default" comment="">
+<<<<<<< HEAD
       <change type="DELETED" beforePath="$PROJECT_DIR$/SpringBoot2-learn.iml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/spring-boot-webflux/pom.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/spring-boot-webflux/spring-boot-webflux.iml" afterPath="" />
+=======
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webflux-common-tools/target/classes/Console.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Spring-Boot2-learn.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webflux-chapter_01/src/main/java/WebFluxApplication01.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webflux-chapter_01/src/main/java/rest/WebFluxRoutes.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webflux-chapter_01/src/main/java/rest/WebMvcController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webflux-chapter_01/webflux-chapter_01.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webflux-chapter_02/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webflux-chapter_02/src/main/java/WebFluxApplication02.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webflux-chapter_02/src/main/java/rest/WebFluxRoutes.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webflux-chapter_02/src/main/java/rest/WebMvcController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webflux-chapter_02/webflux-chapter_02.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webflux-chapter_03/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webflux-chapter_03/src/main/java/api/LearnExceptionHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webflux-chapter_03/src/main/java/api/LearnFlux.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webflux-chapter_03/src/main/java/api/LearnHandlerFunction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webflux-chapter_03/src/main/java/api/LearnMono.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webflux-chapter_03/src/main/java/api/LearnRequestPredicates.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webflux-chapter_03/src/main/java/api/LearnRouterFunction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webflux-chapter_03/src/main/java/api/LearnServer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webflux-chapter_03/src/main/java/api/LearnServerRequest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webflux-chapter_03/src/main/java/api/LearnServerResponse.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webflux-chapter_03/src/main/java/api/LearnWebClient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webflux-chapter_03/src/main/java/api/LearnWebFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webflux-chapter_03/src/main/java/api/LearnWebSocketClient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webflux-chapter_03/src/main/java/resources/reame.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webflux-chapter_03/webflux-chapter_03.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webflux-chapter_04/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webflux-chapter_04/src/main/java/WebFluxApplication03.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webflux-chapter_04/src/main/java/websocket/EchoHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webflux-chapter_04/src/main/java/websocket/WebSocketConfiguration.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webflux-chapter_04/webflux-chapter_04.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webflux-common-tools/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webflux-common-tools/src/main/java/entities/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webflux-common-tools/src/main/java/tools/Console.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webflux-common-tools/webflux-common-tools.iml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringBoot2-learn.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-boot-webflux/spring-boot-webflux.iml" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/spring-boot-webflux/pom.xml" afterPath="$PROJECT_DIR$/webflux-chapter_01/pom.xml" />
+>>>>>>> 1d1ac599931db3894d8a388a5013dd6f9eab165a
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
@@ -31,6 +72,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="WebHandler.java" pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.7.RELEASE/spring-web-5.0.7.RELEASE-sources.jar!/org/springframework/web/server/WebHandler.java">
@@ -70,16 +112,47 @@
             <state relative-caret-position="255">
               <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
               <folding />
+=======
+    <leaf>
+      <file leaf-file-name="LearnMono.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webflux-chapter_03/src/main/java/api/LearnMono.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="67" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+>>>>>>> 1d1ac599931db3894d8a388a5013dd6f9eab165a
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
+=======
+      <file leaf-file-name="LearnFlux.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/webflux-chapter_03/src/main/java/api/LearnFlux.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="401">
+              <caret line="56" column="41" lean-forward="false" selection-start-line="56" selection-start-column="41" selection-end-line="56" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+>>>>>>> 1d1ac599931db3894d8a388a5013dd6f9eab165a
       <file leaf-file-name="reame.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/webflux-chapter_03/src/main/java/resources/reame.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
+<<<<<<< HEAD
               <first_editor relative-caret-position="374">
                 <caret line="22" column="10" lean-forward="false" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+=======
+              <first_editor relative-caret-position="34">
+                <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+>>>>>>> 1d1ac599931db3894d8a388a5013dd6f9eab165a
                 <folding />
               </first_editor>
               <second_editor>
@@ -89,41 +162,120 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="WebFluxApplication03.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/webflux-chapter_04/src/main/java/WebFluxApplication03.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
               <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
               <folding />
+=======
+      <file leaf-file-name="Flux.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.1.8.RELEASE/reactor-core-3.1.8.RELEASE-sources.jar!/reactor/core/publisher/Flux.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="235">
+              <caret line="875" column="7" lean-forward="true" selection-start-line="875" selection-start-column="7" selection-end-line="875" selection-end-column="7" />
+              <folding>
+                <element signature="e#36218#36219#0" expanded="true" />
+                <element signature="e#36266#36267#0" expanded="true" />
+                <element signature="e#45390#45391#0" expanded="true" />
+                <element signature="e#45419#45420#0" expanded="true" />
+              </folding>
+>>>>>>> 1d1ac599931db3894d8a388a5013dd6f9eab165a
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="EchoHandler.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/webflux-chapter_04/src/main/java/websocket/EchoHandler.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
               <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+=======
+      <file leaf-file-name="Iterable.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/Iterable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="44" column="17" lean-forward="false" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
+>>>>>>> 1d1ac599931db3894d8a388a5013dd6f9eab165a
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="WebSocketConfiguration.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/webflux-chapter_04/src/main/java/websocket/WebSocketConfiguration.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
               <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+=======
+      <file leaf-file-name="Console.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webflux-common-tools/src/main/java/tools/Console.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="333">
+              <caret line="133" column="5" lean-forward="true" selection-start-line="133" selection-start-column="5" selection-end-line="133" selection-end-column="5" />
+              <folding>
+                <element signature="e#386#387#0" expanded="true" />
+                <element signature="e#422#423#0" expanded="true" />
+                <element signature="e#1673#1674#0" expanded="true" />
+                <element signature="e#1702#1703#0" expanded="true" />
+                <element signature="e#2134#2135#0" expanded="true" />
+                <element signature="e#2202#2203#0" expanded="true" />
+                <element signature="e#2830#2831#0" expanded="true" />
+                <element signature="e#2875#2876#0" expanded="true" />
+                <element signature="e#2926#2927#0" expanded="true" />
+                <element signature="e#2972#2973#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Objects.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/Objects.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="244">
+              <caret line="229" column="5" lean-forward="true" selection-start-line="229" selection-start-column="5" selection-end-line="229" selection-end-column="5" />
+>>>>>>> 1d1ac599931db3894d8a388a5013dd6f9eab165a
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="MultipartResolver.java" pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.7.RELEASE/spring-web-5.0.7.RELEASE-sources.jar!/org/springframework/web/multipart/MultipartResolver.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="28">
               <caret line="84" column="17" lean-forward="false" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="17" />
+=======
+      <file leaf-file-name="Mono.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.1.8.RELEASE/reactor-core-3.1.8.RELEASE-sources.jar!/reactor/core/publisher/Mono.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="167">
+              <caret line="1195" column="27" lean-forward="false" selection-start-line="1195" selection-start-column="19" selection-end-line="1195" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BlockingSingleSubscriber.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.1.8.RELEASE/reactor-core-3.1.8.RELEASE-sources.jar!/reactor/core/publisher/BlockingSingleSubscriber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="113" column="17" lean-forward="true" selection-start-line="113" selection-start-column="17" selection-end-line="113" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MonoFirst.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.1.8.RELEASE/reactor-core-3.1.8.RELEASE-sources.jar!/reactor/core/publisher/MonoFirst.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="46" column="4" lean-forward="false" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="4" />
+>>>>>>> 1d1ac599931db3894d8a388a5013dd6f9eab165a
               <folding />
             </state>
           </provider>
@@ -154,7 +306,10 @@
     <findStrings>
       <find>customer</find>
       <find>ommon-tools</find>
+<<<<<<< HEAD
       <find>customer-webflux-route-01</find>
+=======
+>>>>>>> 1d1ac599931db3894d8a388a5013dd6f9eab165a
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -191,11 +346,22 @@
         <option value="$PROJECT_DIR$/webflux-chapter_03/src/main/java/api/Learn.java" />
         <option value="$PROJECT_DIR$/webflux-common-tools/src/main/java/entities/Person.java" />
         <option value="$PROJECT_DIR$/webflux-chapter_02/src/main/java/WebFluxApplication02.java" />
+<<<<<<< HEAD
+=======
+        <option value="$PROJECT_DIR$/webflux-chapter_01/src/main/java/WebFluxApplication01.java" />
+>>>>>>> 1d1ac599931db3894d8a388a5013dd6f9eab165a
         <option value="$PROJECT_DIR$/webflux-chapter_03/src/main/java/api/LearnServerRequest.java" />
         <option value="$PROJECT_DIR$/webflux-chapter_03/src/main/java/api/LearnServerResponse.java" />
         <option value="$PROJECT_DIR$/webflux-chapter_03/src/main/java/api/LearnWebClient.java" />
         <option value="$PROJECT_DIR$/webflux-chapter_03/src/main/java/api/LearnExceptionHandler.java" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/webflux-chapter_03/src/main/java/api/LearnWebFilter.java" />
+=======
+        <option value="$PROJECT_DIR$/webflux-chapter_03/src/main/java/api/LearnRequestPredicates.java" />
+        <option value="$PROJECT_DIR$/webflux-chapter_03/src/main/java/api/LearnServer.java" />
+        <option value="$PROJECT_DIR$/webflux-chapter_03/src/main/java/api/LearnWebFilter.java" />
+        <option value="$PROJECT_DIR$/webflux-chapter_03/src/main/java/api/LearnRouterFunction.java" />
+>>>>>>> 1d1ac599931db3894d8a388a5013dd6f9eab165a
         <option value="$PROJECT_DIR$/webflux-chapter_03/src/main/java/api/LearnHandlerFunction.java" />
         <option value="$PROJECT_DIR$/webflux-chapter_03/pom.xml" />
         <option value="$PROJECT_DIR$/webflux-common-tools/pom.xml" />
@@ -210,11 +376,14 @@
         <option value="$PROJECT_DIR$/webflux-common-tools/src/main/java/tools/Console.java" />
         <option value="$PROJECT_DIR$/webflux-chapter_03/src/main/java/api/LearnMono.java" />
         <option value="$PROJECT_DIR$/webflux-chapter_03/src/main/java/resources/reame.md" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/webflux-common-tools/src/main/java/tools/Text.java" />
         <option value="$PROJECT_DIR$/webflux-chapter_01/src/main/java/WebFluxApplication01.java" />
         <option value="$PROJECT_DIR$/webflux-chapter_03/src/main/java/api/LearnRouterFunction.java" />
         <option value="$PROJECT_DIR$/webflux-chapter_03/src/main/java/api/LearnRequestPredicates.java" />
         <option value="$PROJECT_DIR$/webflux-chapter_03/src/main/java/api/LearnServer.java" />
+=======
+>>>>>>> 1d1ac599931db3894d8a388a5013dd6f9eab165a
         <option value="$PROJECT_DIR$/webflux-chapter_03/src/main/java/api/LearnFlux.java" />
       </list>
     </option>
@@ -332,7 +501,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="Scratches" />
+=======
+>>>>>>> 1d1ac599931db3894d8a388a5013dd6f9eab165a
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -742,8 +914,126 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringBoot2-learn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Spring-Boot2-learn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webflux-chapter_03" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringBoot2-learn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Spring-Boot2-learn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webflux-chapter_03" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringBoot2-learn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Spring-Boot2-learn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webflux-chapter_03" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringBoot2-learn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Spring-Boot2-learn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webflux-chapter_03" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringBoot2-learn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Spring-Boot2-learn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webflux-chapter_03" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+<<<<<<< HEAD
+=======
+      <pane id="Scratches" />
+>>>>>>> 1d1ac599931db3894d8a388a5013dd6f9eab165a
       <pane id="Scope" />
     </panes>
   </component>
@@ -773,6 +1063,24 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.LearnFlux">
+<<<<<<< HEAD
+=======
+    <configuration default="false" name="WebFluxApplication02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="WebFluxApplication02" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="webflux-chapter_02" />
+      <envs />
+      <method />
+    </configuration>
+>>>>>>> 1d1ac599931db3894d8a388a5013dd6f9eab165a
     <configuration default="false" name="WebFluxApplication03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="WebFluxApplication03" />
@@ -848,6 +1156,7 @@
       <envs />
       <method />
     </configuration>
+<<<<<<< HEAD
     <configuration default="false" name="WebFluxApplication01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="WebFluxApplication01" />
@@ -863,6 +1172,8 @@
       <envs />
       <method />
     </configuration>
+=======
+>>>>>>> 1d1ac599931db3894d8a388a5013dd6f9eab165a
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -1260,19 +1571,34 @@
       <method />
     </configuration>
     <list size="5">
+<<<<<<< HEAD
       <item index="0" class="java.lang.String" itemvalue="Application.WebFluxApplication03" />
       <item index="1" class="java.lang.String" itemvalue="Application.LearnWebSocketClient" />
       <item index="2" class="java.lang.String" itemvalue="Application.LearnMono" />
       <item index="3" class="java.lang.String" itemvalue="Application.LearnFlux" />
       <item index="4" class="java.lang.String" itemvalue="Application.WebFluxApplication01" />
+=======
+      <item index="0" class="java.lang.String" itemvalue="Application.WebFluxApplication02" />
+      <item index="1" class="java.lang.String" itemvalue="Application.WebFluxApplication03" />
+      <item index="2" class="java.lang.String" itemvalue="Application.LearnWebSocketClient" />
+      <item index="3" class="java.lang.String" itemvalue="Application.LearnMono" />
+      <item index="4" class="java.lang.String" itemvalue="Application.LearnFlux" />
+>>>>>>> 1d1ac599931db3894d8a388a5013dd6f9eab165a
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Application.LearnFlux" />
+<<<<<<< HEAD
         <item index="1" class="java.lang.String" itemvalue="Application.WebFluxApplication01" />
         <item index="2" class="java.lang.String" itemvalue="Application.LearnMono" />
         <item index="3" class="java.lang.String" itemvalue="Application.LearnWebSocketClient" />
         <item index="4" class="java.lang.String" itemvalue="Application.WebFluxApplication03" />
+=======
+        <item index="1" class="java.lang.String" itemvalue="Application.LearnMono" />
+        <item index="2" class="java.lang.String" itemvalue="Application.LearnWebSocketClient" />
+        <item index="3" class="java.lang.String" itemvalue="Application.WebFluxApplication03" />
+        <item index="4" class="java.lang.String" itemvalue="Application.WebFluxApplication02" />
+>>>>>>> 1d1ac599931db3894d8a388a5013dd6f9eab165a
       </list>
     </recent_temporary>
   </component>
@@ -1295,17 +1621,25 @@
       <workItem from="1529506117472" duration="349000" />
       <workItem from="1529506506735" duration="4476000" />
       <workItem from="1529511043813" duration="15066000" />
+<<<<<<< HEAD
       <workItem from="1529566500193" duration="9838000" />
       <workItem from="1529630049126" duration="561000" />
       <workItem from="1529643881385" duration="331000" />
       <workItem from="1529847861223" duration="1491000" />
       <workItem from="1530605932264" duration="3997000" />
       <workItem from="1530690388639" duration="3052000" />
+=======
+      <workItem from="1529566500193" duration="8224000" />
+>>>>>>> 1d1ac599931db3894d8a388a5013dd6f9eab165a
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="41523000" />
+=======
+    <option name="totallyTimeSpent" value="30477000" />
+>>>>>>> 1d1ac599931db3894d8a388a5013dd6f9eab165a
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -1328,11 +1662,19 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28898427" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+=======
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27110156" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+>>>>>>> 1d1ac599931db3894d8a388a5013dd6f9eab165a
       <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1356,6 +1698,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/webflux-chapter_03/src/main/java/api/LearnFlux.java</url>
+<<<<<<< HEAD
           <line>20</line>
           <properties />
           <option name="timeStamp" value="2" />
@@ -1368,6 +1711,14 @@
         </line-breakpoint>
       </breakpoints>
       <option name="time" value="5" />
+=======
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="4" />
+>>>>>>> 1d1ac599931db3894d8a388a5013dd6f9eab165a
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1376,6 +1727,7 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="jar://$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.1.8.RELEASE/reactor-core-3.1.8.RELEASE-sources.jar!/reactor/core/publisher/FluxOnAssembly.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -1416,12 +1768,54 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="22" column="71" lean-forward="false" selection-start-line="21" selection-start-column="15" selection-end-line="22" selection-end-column="71" />
+=======
+    <entry file="jar://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-server/9.4.11.v20180605/jetty-server-9.4.11.v20180605.jar!/org/eclipse/jetty/server/Server.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="85" column="11" lean-forward="false" selection-start-line="85" selection-start-column="11" selection-end-line="85" selection-end-column="11" />
+          <folding>
+            <element signature="e#3458#3459#0" expanded="true" />
+            <element signature="e#3496#3497#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.31/tomcat-embed-core-8.5.31.jar!/org/apache/catalina/startup/Tomcat.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="205" column="0" lean-forward="false" selection-start-line="205" selection-start-column="0" selection-end-line="205" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.31/tomcat-embed-core-8.5.31.jar!/org/apache/catalina/core/StandardHost.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="63" column="28" lean-forward="false" selection-start-line="63" selection-start-column="28" selection-end-line="63" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webflux-chapter_03/src/main/java/api/LearnServerResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="11" lean-forward="true" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/webflux-chapter_03/src/main/java/api/LearnServerRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+>>>>>>> 1d1ac599931db3894d8a388a5013dd6f9eab165a
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="jar://$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.1.8.RELEASE/reactor-core-3.1.8.RELEASE-sources.jar!/reactor/core/publisher/Operators.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -1440,10 +1834,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="21" column="1" lean-forward="false" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+=======
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="617" column="17" lean-forward="false" selection-start-line="617" selection-start-column="17" selection-end-line="617" selection-end-column="17" />
+>>>>>>> 1d1ac599931db3894d8a388a5013dd6f9eab165a
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.0.7.RELEASE/spring-webflux-5.0.7.RELEASE-sources.jar!/org/springframework/web/reactive/function/server/HandlerFunction.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -1456,10 +1857,28 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="27" column="17" lean-forward="false" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+=======
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.7.RELEASE/spring-web-5.0.7.RELEASE-sources.jar!/org/springframework/http/HttpStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="451" column="19" lean-forward="false" selection-start-line="451" selection-start-column="19" selection-end-line="451" selection-end-column="19" />
+          <folding>
+            <element signature="e#16002#16003#0" expanded="false" />
+            <element signature="e#16050#16051#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-handler/4.1.25.Final/netty-handler-4.1.25.Final-sources.jar!/io/netty/handler/ssl/SslContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="81" column="85" lean-forward="false" selection-start-line="81" selection-start-column="68" selection-end-line="81" selection-end-column="85" />
+>>>>>>> 1d1ac599931db3894d8a388a5013dd6f9eab165a
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.0.7.RELEASE/spring-webflux-5.0.7.RELEASE-sources.jar!/org/springframework/web/reactive/function/server/RequestPredicate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -1472,10 +1891,20 @@
             <element signature="e#2171#2172#0" expanded="false" />
             <element signature="e#2641#2642#0" expanded="false" />
             <element signature="e#2708#2709#0" expanded="false" />
+=======
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-handler/4.1.25.Final/netty-handler-4.1.25.Final-sources.jar!/io/netty/handler/ssl/SslContextBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="438" column="51" lean-forward="true" selection-start-line="438" selection-start-column="51" selection-end-line="438" selection-end-column="51" />
+          <folding>
+            <element signature="e#1316#1317#0" expanded="false" />
+            <element signature="e#1367#1368#0" expanded="false" />
+>>>>>>> 1d1ac599931db3894d8a388a5013dd6f9eab165a
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.0.7.RELEASE/spring-webflux-5.0.7.RELEASE-sources.jar!/org/springframework/web/reactive/function/server/RequestPredicates.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1462">
@@ -1577,20 +2006,40 @@
             <element signature="e#22829#22830#0" expanded="false" />
             <element signature="e#22880#22881#0" expanded="false" />
             <element signature="e#22911#22912#0" expanded="false" />
+=======
+    <entry file="file://$PROJECT_DIR$/webflux-chapter_03/src/main/java/api/LearnWebClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="6" lean-forward="true" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="false" />
+>>>>>>> 1d1ac599931db3894d8a388a5013dd6f9eab165a
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/webflux-chapter_03/src/main/java/api/LearnRequestPredicates.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="799">
           <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="false" />
+=======
+    <entry file="file://$PROJECT_DIR$/webflux-chapter_03/src/main/java/api/LearnExceptionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-550">
+          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1279#1280#0" expanded="false" />
+            <element signature="e#1309#1310#0" expanded="false" />
+>>>>>>> 1d1ac599931db3894d8a388a5013dd6f9eab165a
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/webflux-chapter_03/src/main/java/api/LearnRouterFunction.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
@@ -1605,10 +2054,25 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
           <caret line="82" column="21" lean-forward="true" selection-start-line="82" selection-start-column="21" selection-end-line="82" selection-end-column="21" />
+=======
+    <entry file="file://$PROJECT_DIR$/webflux-chapter_03/src/main/java/api/LearnRequestPredicates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="32" lean-forward="false" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/webflux-chapter_03/src/main/java/api/LearnWebFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="42" column="11" lean-forward="false" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="11" />
+>>>>>>> 1d1ac599931db3894d8a388a5013dd6f9eab165a
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="jar://$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.1.8.RELEASE/reactor-core-3.1.8.RELEASE-sources.jar!/reactor/core/Fuseable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2480">
@@ -1629,28 +2093,71 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="173">
           <caret line="830" column="0" lean-forward="false" selection-start-line="830" selection-start-column="0" selection-end-line="830" selection-end-column="0" />
+=======
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.0.7.RELEASE/spring-webflux-5.0.7.RELEASE-sources.jar!/org/springframework/web/reactive/function/server/RouterFunctions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1331">
+          <caret line="45" column="2" lean-forward="false" selection-start-line="45" selection-start-column="2" selection-end-line="45" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webflux-chapter_03/src/main/java/api/LearnRouterFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="32" column="69" lean-forward="false" selection-start-line="32" selection-start-column="69" selection-end-line="32" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.0.7.RELEASE/spring-webflux-5.0.7.RELEASE-sources.jar!/org/springframework/web/reactive/function/server/HandlerFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="36" column="42" lean-forward="false" selection-start-line="36" selection-start-column="42" selection-end-line="36" selection-end-column="42" />
+>>>>>>> 1d1ac599931db3894d8a388a5013dd6f9eab165a
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/invoke/DirectMethodHandle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="283">
           <caret line="269" column="0" lean-forward="false" selection-start-line="269" selection-start-column="0" selection-end-line="269" selection-end-column="0" />
           <folding>
             <element signature="e#11384#11385#0" expanded="false" />
+=======
+    <entry file="file://$PROJECT_DIR$/webflux-chapter_03/src/main/java/api/LearnHandlerFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+>>>>>>> 1d1ac599931db3894d8a388a5013dd6f9eab165a
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/invoke/LambdaForm.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1190">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+    <entry file="file://$PROJECT_DIR$/webflux-chapter_01/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+>>>>>>> 1d1ac599931db3894d8a388a5013dd6f9eab165a
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/Objects.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="227">
@@ -1666,10 +2173,19 @@
           <folding>
             <element signature="e#1266#1267#0" expanded="false" />
             <element signature="e#1324#1325#0" expanded="false" />
+=======
+    <entry file="file://$PROJECT_DIR$/webflux-chapter_03/src/main/java/api/LearnServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="78" column="0" lean-forward="false" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+>>>>>>> 1d1ac599931db3894d8a388a5013dd6f9eab165a
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="jar://$MAVEN_REPOSITORY$/org/reactivestreams/reactive-streams/1.0.2/reactive-streams-1.0.2-sources.jar!/org/reactivestreams/Subscription.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="215">
@@ -1682,10 +2198,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
           <caret line="55" column="16" lean-forward="false" selection-start-line="55" selection-start-column="16" selection-end-line="55" selection-end-column="16" />
+=======
+    <entry file="file://$PROJECT_DIR$/webflux-chapter_03/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="742">
+          <caret line="45" column="21" lean-forward="false" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
+>>>>>>> 1d1ac599931db3894d8a388a5013dd6f9eab165a
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/function/Consumer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
@@ -1698,34 +2221,70 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="199">
           <caret line="79" column="44" lean-forward="false" selection-start-line="79" selection-start-column="44" selection-end-line="79" selection-end-column="44" />
+=======
+    <entry file="file://$PROJECT_DIR$/webflux-common-tools/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <marker date="1529568505596" expanded="true" signature="89:739" ph="..." />
+            <marker date="1529568505596" expanded="true" signature="534:728" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.7.RELEASE/spring-web-5.0.7.RELEASE-sources.jar!/org/springframework/http/codec/ServerSentEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-82">
+          <caret line="28" column="2" lean-forward="true" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
+>>>>>>> 1d1ac599931db3894d8a388a5013dd6f9eab165a
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/webflux-chapter_03/src/main/java/api/LearnMono.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="22" column="15" lean-forward="false" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
+=======
+    <entry file="jar://$MAVEN_REPOSITORY$/org/reactivestreams/reactive-streams/1.0.2/reactive-streams-1.0.2-sources.jar!/org/reactivestreams/Subscriber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+>>>>>>> 1d1ac599931db3894d8a388a5013dd6f9eab165a
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/reactivestreams/reactive-streams/1.0.2/reactive-streams-1.0.2-sources.jar!/org/reactivestreams/Publisher.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="36">
+=======
+        <state relative-caret-position="221">
+>>>>>>> 1d1ac599931db3894d8a388a5013dd6f9eab165a
           <caret line="22" column="17" lean-forward="false" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="jar://$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.1.8.RELEASE/reactor-core-3.1.8.RELEASE-sources.jar!/reactor/core/publisher/Mono.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="343">
           <caret line="308" column="38" lean-forward="false" selection-start-line="308" selection-start-column="38" selection-end-line="308" selection-end-column="38" />
+=======
+    <entry file="jar://$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.1.8.RELEASE/reactor-core-3.1.8.RELEASE-sources.jar!/reactor/core/publisher/Hooks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="324" column="37" lean-forward="false" selection-start-line="324" selection-start-column="37" selection-end-line="324" selection-end-column="37" />
+>>>>>>> 1d1ac599931db3894d8a388a5013dd6f9eab165a
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="jar://$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.1.8.RELEASE/reactor-core-3.1.8.RELEASE-sources.jar!/reactor/core/publisher/MonoFromPublisher.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
@@ -1741,38 +2300,72 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="199">
           <caret line="25" column="29" lean-forward="true" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+=======
+    <entry file="file://$PROJECT_DIR$/webflux-chapter_04/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> 1d1ac599931db3894d8a388a5013dd6f9eab165a
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="jar://$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.1.8.RELEASE/reactor-core-3.1.8.RELEASE-sources.jar!/reactor/core/publisher/Flux.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
           <caret line="5078" column="35" lean-forward="false" selection-start-line="5078" selection-start-column="35" selection-end-line="5078" selection-end-column="35" />
+=======
+    <entry file="file://$PROJECT_DIR$/webflux-common-tools/src/main/java/rest/WebFluxRoutes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> 1d1ac599931db3894d8a388a5013dd6f9eab165a
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="jar://$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.1.8.RELEASE/reactor-core-3.1.8.RELEASE-sources.jar!/reactor/core/publisher/FluxMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="335">
           <caret line="178" column="41" lean-forward="true" selection-start-line="178" selection-start-column="41" selection-end-line="178" selection-end-column="41" />
+=======
+    <entry file="file://$PROJECT_DIR$/webflux-common-tools/src/main/java/rest/WebMvcController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> 1d1ac599931db3894d8a388a5013dd6f9eab165a
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/webflux-chapter_03/src/main/java/api/LearnWebFilter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
           <caret line="57" column="57" lean-forward="true" selection-start-line="57" selection-start-column="57" selection-end-line="57" selection-end-column="57" />
+=======
+    <entry file="file://$PROJECT_DIR$/webflux-common-tools/src/main/java/WebFluxApplication02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+>>>>>>> 1d1ac599931db3894d8a388a5013dd6f9eab165a
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.7.RELEASE/spring-web-5.0.7.RELEASE-sources.jar!/org/springframework/web/server/WebFilter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="28" column="17" lean-forward="false" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+=======
+    <entry file="file://$PROJECT_DIR$/webflux-chapter_02/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="19" selection-end-column="21" />
+>>>>>>> 1d1ac599931db3894d8a388a5013dd6f9eab165a
           <folding />
         </state>
       </provider>
@@ -1863,17 +2456,89 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/webflux-chapter_03/src/main/java/api/LearnWebSocketClient.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="255">
           <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+=======
+        <state relative-caret-position="411">
+          <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/webflux-chapter_04/src/main/java/rest/WebMvcController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webflux-chapter_04/src/main/java/rest/WebFluxRoutes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+>>>>>>> 1d1ac599931db3894d8a388a5013dd6f9eab165a
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/webflux-chapter_03/src/main/java/resources/reame.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="374">
             <caret line="22" column="10" lean-forward="false" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+=======
+    <entry file="file://$PROJECT_DIR$/webflux-chapter_04/src/main/java/WebFluxApplication03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="e#536#537#0" expanded="false" />
+            <element signature="e#607#608#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webflux-chapter_04/src/main/java/websocket/EchoHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="29" lean-forward="false" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webflux-chapter_04/src/main/java/websocket/WebSocketConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1197#1198#0" expanded="false" />
+            <element signature="e#1249#1250#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webflux-chapter_03/src/main/java/api/LearnWebSocketClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="20" column="30" lean-forward="true" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="350">
+            <caret line="69" column="22" lean-forward="false" selection-start-line="69" selection-start-column="22" selection-end-line="69" selection-end-column="22" />
+>>>>>>> 1d1ac599931db3894d8a388a5013dd6f9eab165a
             <folding />
           </first_editor>
           <second_editor>
@@ -1882,30 +2547,164 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/webflux-chapter_04/src/main/java/websocket/EchoHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+=======
+    <entry file="file://$PROJECT_DIR$/webflux-chapter_02/src/main/java/WebFluxApplication02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webflux-chapter_02/src/main/java/rest/WebMvcController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="41" column="43" lean-forward="false" selection-start-line="41" selection-start-column="43" selection-end-line="41" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1232#1241#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webflux-chapter_02/src/main/java/rest/WebFluxRoutes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/Objects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="229" column="5" lean-forward="true" selection-start-line="229" selection-start-column="5" selection-end-line="229" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.1.8.RELEASE/reactor-core-3.1.8.RELEASE-sources.jar!/reactor/core/publisher/MonoFirst.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="46" column="4" lean-forward="false" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.1.8.RELEASE/reactor-core-3.1.8.RELEASE-sources.jar!/reactor/core/publisher/BlockingSingleSubscriber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="113" column="17" lean-forward="true" selection-start-line="113" selection-start-column="17" selection-end-line="113" selection-end-column="17" />
+>>>>>>> 1d1ac599931db3894d8a388a5013dd6f9eab165a
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/webflux-chapter_04/src/main/java/websocket/WebSocketConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+=======
+    <entry file="file://$PROJECT_DIR$/webflux-common-tools/src/main/java/tools/Console.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="133" column="5" lean-forward="true" selection-start-line="133" selection-start-column="5" selection-end-line="133" selection-end-column="5" />
+          <folding>
+            <element signature="e#386#387#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+            <element signature="e#1673#1674#0" expanded="true" />
+            <element signature="e#1702#1703#0" expanded="true" />
+            <element signature="e#2134#2135#0" expanded="true" />
+            <element signature="e#2202#2203#0" expanded="true" />
+            <element signature="e#2830#2831#0" expanded="true" />
+            <element signature="e#2875#2876#0" expanded="true" />
+            <element signature="e#2926#2927#0" expanded="true" />
+            <element signature="e#2972#2973#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.1.8.RELEASE/reactor-core-3.1.8.RELEASE-sources.jar!/reactor/core/publisher/Mono.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="1195" column="27" lean-forward="false" selection-start-line="1195" selection-start-column="19" selection-end-line="1195" selection-end-column="27" />
+>>>>>>> 1d1ac599931db3894d8a388a5013dd6f9eab165a
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/webflux-chapter_04/src/main/java/WebFluxApplication03.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+=======
+    <entry file="file://$PROJECT_DIR$/webflux-chapter_03/src/main/java/api/LearnMono.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.1.8.RELEASE/reactor-core-3.1.8.RELEASE-sources.jar!/reactor/core/publisher/Flux.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="875" column="7" lean-forward="true" selection-start-line="875" selection-start-column="7" selection-end-line="875" selection-end-column="7" />
+          <folding>
+            <element signature="e#36218#36219#0" expanded="true" />
+            <element signature="e#36266#36267#0" expanded="true" />
+            <element signature="e#45390#45391#0" expanded="true" />
+            <element signature="e#45419#45420#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/Iterable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="44" column="17" lean-forward="false" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
+>>>>>>> 1d1ac599931db3894d8a388a5013dd6f9eab165a
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/webflux-chapter_03/src/main/java/resources/reame.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="34">
+            <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webflux-chapter_03/src/main/java/api/LearnFlux.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="56" column="41" lean-forward="false" selection-start-line="56" selection-start-column="41" selection-end-line="56" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+>>>>>>> 1d1ac599931db3894d8a388a5013dd6f9eab165a
   </component>
   <component name="masterDetails">
     <states>
