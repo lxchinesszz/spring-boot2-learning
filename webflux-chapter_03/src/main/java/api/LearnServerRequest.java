@@ -1,6 +1,6 @@
 package api;
 
-import entities.Person;
+import app.entities.Person;
 import org.springframework.http.codec.multipart.Part;
 import org.springframework.util.MultiValueMap;
 import org.springframework.web.reactive.function.BodyExtractors;

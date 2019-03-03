@@ -13,6 +13,7 @@ import java.util.Arrays;
 @EnableWebFlux
 @SpringBootApplication
 public class WebFluxApplication01 {
+
     public static void main(String[] args) {
         Arrays.stream(SpringApplication.run(WebFluxApplication01.class, args)
                 .getBeanDefinitionNames()).forEach(x -> Console.log(x));
