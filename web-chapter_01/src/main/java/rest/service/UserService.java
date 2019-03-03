@@ -57,6 +57,7 @@ public class UserService {
 
 
     @RequestMapping(path = "/get7",method = RequestMethod.POST)
+    @PostMapping(path = "/get7")
     public String getUse7(String text) {
         return "hello " + text;
     }
