@@ -15,6 +15,7 @@
         <module>webflux-common-tools</module>
         <module>spring-autowired-learn</module>
         <module>web-chapter_01</module>
+        <module>web-chapter_02</module>
     </modules>
 
     <parent>
