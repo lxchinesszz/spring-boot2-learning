@@ -1,0 +1,67 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title th:text="${title}"></title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+</head>
+<style>
+    span.offer {
+        font-weight: bold;
+        color: green;
+    }
+</style>
+<body>
+<table>
+    <thead>
+    <tr>
+        <th>书名</th>
+        <th>作者</th>
+        <th>日期</th>
+        <th>价格</th>
+        <th>方式</th>
+    </tr>
+    </thead>
+    <tbody>
+    <!--读取实体-->
+    <tr>
+        <td th:text="${book.getName()}">默认值</td>
+        <td th:text="${book.getAuthor()}">默认值</td>
+        <td th:text="${#dates.format(book.getDate(), 'yyyy-MM-dd hh:mm:ss')}">默认值</td>
+        <td th:text="${book.getPrice()}">默认值</td>
+        <!--条件判断-->
+        <td th:switch="${book.getSaleType()}">
+            <span th:case="'CG'">闪购</span>
+            <span th:case="'PT'">拼团</span>
+            <span th:case="'CX'">促销</span>
+            <span th:case="*">其它</span>
+        </td>
+    </tr>
+
+    <!--读物实体列表-->
+    <tr th:each="product : ${books}">
+        <td th:text="${product.getName()}">默认值</td>
+        <td th:text="${product.getAuthor()}">默认值</td>
+        <td th:text="${#dates.format(product.getDate(), 'dd-MM-yyyy')}">默认值</td>
+        <td th:text="${'￥' + #numbers.formatDecimal(product.getPrice(), 1, 2)}">默认值</td>
+        <!--switch语法-->
+        <td th:switch="${product.getSaleType()}">
+            <span th:case="'CG'">闪购</span>
+            <span th:case="'PT'">拼团</span>
+            <span th:class="${product.getPrice() gt 40}?'offer'" th:case="'CX'">促销</span>
+            <span th:case="*">其它</span>
+        </td>
+    </tr>
+
+    </tbody>
+
+
+    <!--if语句语法-->
+    <span th:if="${book.getPrice() gt 60}" class="offer">if语句语法</span>
+
+    <!--map-->
+    <div th:each="key,v:${myMap}">
+        <p th:text="${'索引:'+v.index+'Key:'+key.getKey()+'value:'+key.getValue()}"></p>
+    </div>
+</table>
+</body>
+</html>
