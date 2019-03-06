@@ -17,6 +17,7 @@
         <module>web-chapter_01</module>
         <module>web-chapter_02</module>
         <module>web-chapter_03</module>
+        <module>web-chapter_04</module>
     </modules>
 
     <parent>
