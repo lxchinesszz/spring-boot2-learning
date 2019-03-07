@@ -18,6 +18,7 @@
         <module>web-chapter_02</module>
         <module>web-chapter_03</module>
         <module>web-chapter_04</module>
+        <module>autoconfigure-chapter_01</module>
     </modules>
 
     <parent>
