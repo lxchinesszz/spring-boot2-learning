@@ -20,6 +20,7 @@
         <module>web-chapter_04</module>
         <module>autoconfigure-chapter_01</module>
         <module>endpoint-webapter_01</module>
+        <module>asyn-chapter_01</module>
     </modules>
 
     <parent>
